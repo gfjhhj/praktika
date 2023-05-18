@@ -1,0 +1,10 @@
+D:\207 Забелина Хохлов\17.02WF\17.02WF\obj\Debug\17.02WF.csprojAssemblyReference.cache
+D:\207 Забелина Хохлов\17.02WF\17.02WF\obj\Debug\_17._02WF.Form1.resources
+D:\207 Забелина Хохлов\17.02WF\17.02WF\obj\Debug\_17._02WF.Properties.Resources.resources
+D:\207 Забелина Хохлов\17.02WF\17.02WF\obj\Debug\17.02WF.csproj.GenerateResource.cache
+D:\207 Забелина Хохлов\17.02WF\17.02WF\obj\Debug\17.02WF.csproj.CoreCompileInputs.cache
+D:\207 Забелина Хохлов\17.02WF\17.02WF\bin\Debug\17.02WF.exe.config
+D:\207 Забелина Хохлов\17.02WF\17.02WF\bin\Debug\17.02WF.exe
+D:\207 Забелина Хохлов\17.02WF\17.02WF\bin\Debug\17.02WF.pdb
+D:\207 Забелина Хохлов\17.02WF\17.02WF\obj\Debug\17.02WF.exe
+D:\207 Забелина Хохлов\17.02WF\17.02WF\obj\Debug\17.02WF.pdb
